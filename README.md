@@ -8,3 +8,4 @@ github before pull conflictgi
 github before pull conflict
 after rebase
 before reset
+git
