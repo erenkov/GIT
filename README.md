@@ -3,3 +3,4 @@ branch1
 master after merge with branch1
 branch2 before merge with master
 edited in github
+github before pull conflict
